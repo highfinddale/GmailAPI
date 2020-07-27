@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GmailAPI", "GmailAPI\GmailAPI.csproj", "{BD3E02C3-AE1D-48DD-8352-F000E9E35551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMail_React", "GMail_React\GMail_React.csproj", "{DC601231-2B5C-41FB-8E3F-F624A47CB688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3E02C3-AE1D-48DD-8352-F000E9E35551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3E02C3-AE1D-48DD-8352-F000E9E35551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3E02C3-AE1D-48DD-8352-F000E9E35551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3E02C3-AE1D-48DD-8352-F000E9E35551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC601231-2B5C-41FB-8E3F-F624A47CB688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC601231-2B5C-41FB-8E3F-F624A47CB688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC601231-2B5C-41FB-8E3F-F624A47CB688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC601231-2B5C-41FB-8E3F-F624A47CB688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A1C0CA2-07EB-4CC3-8956-BD6A3C98B943}
+	EndGlobalSection
+EndGlobal
